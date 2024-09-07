@@ -10,8 +10,8 @@ from GATEAU import Tele
 from colorama import Fore
 
 sto = {"stop": False}
-token = "7303581593:AAEajJcnFd689i9dtJbL8GhVKQJuJrGF_rs"
-id = 5172406524
+token = "7026430481:AAESYt76eclmw_CBsfYNKxR2oZocI5WrneQ"
+id = 2134096017
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 
